@@ -1,0 +1,48 @@
+{
+  "category": "Math",
+  "lastUpdated": "2024-01-15T10:30:00Z",
+  "version": "1.0",
+  "totalQuestions": 5,
+  "questions": [
+    {
+      "question": "25 + 15 = ?",
+      "options": ["40", "35", "45", "50"],
+      "correctIndex": 0,
+      "explanation": "25 + 15 = 40",
+      "subCategory": "जोड़",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "12 × 8 = ?",
+      "options": ["96", "84", "88", "92"],
+      "correctIndex": 0,
+      "explanation": "12 × 8 = 96",
+      "subCategory": "गुणा",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "√64 = ?",
+      "options": ["8", "6", "7", "9"],
+      "correctIndex": 0,
+      "explanation": "√64 = 8, क्योंकि 8 × 8 = 64",
+      "subCategory": "वर्गमूल",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "यदि x + 5 = 12, तो x = ?",
+      "options": ["7", "6", "8", "5"],
+      "correctIndex": 0,
+      "explanation": "x + 5 = 12, इसलिए x = 12 - 5 = 7",
+      "subCategory": "बीजगणित",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "एक वृत्त की परिधि का सूत्र क्या है?",
+      "options": ["2πr", "πr²", "πr", "2πr²"],
+      "correctIndex": 0,
+      "explanation": "वृत्त की परिधि का सूत्र 2πr है।",
+      "subCategory": "ज्यामिति",
+      "difficulty": "Medium"
+    }
+  ]
+}

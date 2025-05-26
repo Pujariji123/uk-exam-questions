@@ -1,0 +1,48 @@
+{
+  "category": "Reasoning",
+  "lastUpdated": "2024-01-15T10:30:00Z",
+  "version": "1.0",
+  "totalQuestions": 5,
+  "questions": [
+    {
+      "question": "यदि A = 1, B = 2, C = 3 है, तो CAB = ?",
+      "options": ["312", "321", "123", "132"],
+      "correctIndex": 0,
+      "explanation": "C=3, A=1, B=2, इसलिए CAB = 312",
+      "subCategory": "कोडिंग-डिकोडिंग",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "श्रृंखला में अगली संख्या क्या होगी: 2, 4, 8, 16, ?",
+      "options": ["32", "24", "20", "28"],
+      "correctIndex": 0,
+      "explanation": "यह 2 से गुणा की श्रृंखला है: 2×2=4, 4×2=8, 8×2=16, 16×2=32",
+      "subCategory": "संख्या श्रृंखला",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "यदि BOOK को 1334 लिखा जाता है, तो COOK को कैसे लिखा जाएगा?",
+      "options": ["1334", "2334", "1224", "2224"],
+      "correctIndex": 1,
+      "explanation": "B=1, O=3, O=3, K=4, इसलिए C=2, O=3, O=3, K=4 = 2334",
+      "subCategory": "कोडिंग-डिकोडिंग",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "दिशा: उत्तर से दक्षिण की ओर जाने पर बाएं हाथ की दिशा क्या होगी?",
+      "options": ["पूर्व", "पश्चिम", "उत्तर", "दक्षिण"],
+      "correctIndex": 0,
+      "explanation": "उत्तर से दक्षिण की ओर जाने पर बाएं हाथ की दिशा पूर्व होगी।",
+      "subCategory": "दिशा",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "यदि कल शुक्रवार है, तो परसों कौन सा दिन होगा?",
+      "options": ["रविवार", "सोमवार", "शनिवार", "मंगलवार"],
+      "correctIndex": 0,
+      "explanation": "कल शुक्रवार है, तो आज गुरुवार है, परसों रविवार होगा।",
+      "subCategory": "कैलेंडर",
+      "difficulty": "Medium"
+    }
+  ]
+}

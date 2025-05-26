@@ -1,0 +1,48 @@
+{
+  "category": "Computer",
+  "lastUpdated": "2024-01-15T10:30:00Z",
+  "version": "1.0",
+  "totalQuestions": 5,
+  "questions": [
+    {
+      "question": "CPU का पूरा नाम क्या है?",
+      "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
+      "correctIndex": 0,
+      "explanation": "CPU का पूरा नाम Central Processing Unit है।",
+      "subCategory": "हार्डवेयर",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "RAM का पूरा नाम क्या है?",
+      "options": ["Random Access Memory", "Read Access Memory", "Rapid Access Memory", "Real Access Memory"],
+      "correctIndex": 0,
+      "explanation": "RAM का पूरा नाम Random Access Memory है।",
+      "subCategory": "मेमोरी",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "इंटरनेट का आविष्कार कब हुआ?",
+      "options": ["1969", "1970", "1971", "1972"],
+      "correctIndex": 0,
+      "explanation": "इंटरनेट का आविष्कार 1969 में हुआ था।",
+      "subCategory": "इंटरनेट",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "HTML का पूरा नाम क्या है?",
+      "options": ["HyperText Markup Language", "High Text Markup Language", "HyperText Machine Language", "High Text Machine Language"],
+      "correctIndex": 0,
+      "explanation": "HTML का पूरा नाम HyperText Markup Language है।",
+      "subCategory": "वेब टेक्नोलॉजी",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "कंप्यूटर वायरस क्या है?",
+      "options": ["एक हानिकारक प्रोग्राम", "एक हार्डवेयर", "एक ऑपरेटिंग सिस्टम", "एक एप्लिकेशन"],
+      "correctIndex": 0,
+      "explanation": "कंप्यूटर वायरस एक हानिकारक प्रोग्राम है।",
+      "subCategory": "सुरक्षा",
+      "difficulty": "Easy"
+    }
+  ]
+}

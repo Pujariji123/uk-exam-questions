@@ -1,0 +1,48 @@
+{
+  "category": "Science",
+  "lastUpdated": "2024-01-15T10:30:00Z",
+  "version": "1.0",
+  "totalQuestions": 5,
+  "questions": [
+    {
+      "question": "पानी का रासायनिक सूत्र क्या है?",
+      "options": ["H2O", "CO2", "NaCl", "HCl"],
+      "correctIndex": 0,
+      "explanation": "पानी का रासायनिक सूत्र H2O है।",
+      "subCategory": "रसायन विज्ञान",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "प्रकाश की गति कितनी होती है?",
+      "options": ["3×10⁸ m/s", "3×10⁶ m/s", "3×10⁷ m/s", "3×10⁹ m/s"],
+      "correctIndex": 0,
+      "explanation": "प्रकाश की गति 3×10⁸ मीटर प्रति सेकंड होती है।",
+      "subCategory": "भौतिक विज्ञान",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "मानव शरीर में कितनी हड्डियाँ होती हैं?",
+      "options": ["206", "205", "207", "208"],
+      "correctIndex": 0,
+      "explanation": "मानव शरीर में 206 हड्डियाँ होती हैं।",
+      "subCategory": "जीव विज्ञान",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "ऑक्सीजन का परमाणु क्रमांक कितना है?",
+      "options": ["8", "6", "7", "9"],
+      "correctIndex": 0,
+      "explanation": "ऑक्सीजन का परमाणु क्रमांक 8 है।",
+      "subCategory": "रसायन विज्ञान",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "फोटोसिंथेसिस की प्रक्रिया में कौन सी गैस निकलती है?",
+      "options": ["ऑक्सीजन", "कार्बन डाइऑक्साइड", "नाइट्रोजन", "हाइड्रोजन"],
+      "correctIndex": 0,
+      "explanation": "फोटोसिंथेसिस की प्रक्रिया में ऑक्सीजन गैस निकलती है।",
+      "subCategory": "जीव विज्ञान",
+      "difficulty": "Easy"
+    }
+  ]
+}

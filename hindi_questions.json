@@ -1,0 +1,48 @@
+{
+  "category": "Hindi",
+  "lastUpdated": "2024-01-15T10:30:00Z",
+  "version": "1.0",
+  "totalQuestions": 5,
+  "questions": [
+    {
+      "question": "हिंदी भाषा की लिपि कौन सी है?",
+      "options": ["देवनागरी", "रोमन", "गुरुमुखी", "बंगाली"],
+      "correctIndex": 0,
+      "explanation": "हिंदी भाषा की लिपि देवनागरी है।",
+      "subCategory": "व्याकरण",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "'पुस्तक' का बहुवचन क्या है?",
+      "options": ["पुस्तकें", "पुस्तकों", "पुस्तकाएं", "पुस्तकियां"],
+      "correctIndex": 0,
+      "explanation": "पुस्तक का सही बहुवचन 'पुस्तकें' है।",
+      "subCategory": "व्याकरण",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "हिंदी में कितने स्वर होते हैं?",
+      "options": ["10", "11", "12", "13"],
+      "correctIndex": 1,
+      "explanation": "हिंदी में 11 स्वर होते हैं - अ, आ, इ, ई, उ, ऊ, ए, ऐ, ओ, औ, अं।",
+      "subCategory": "वर्णमाला",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "'राम' में कौन सा कारक है?",
+      "options": ["कर्ता कारक", "कर्म कारक", "करण कारक", "संप्रदान कारक"],
+      "correctIndex": 0,
+      "explanation": "राम कर्ता कारक का उदाहरण है।",
+      "subCategory": "कारक",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "हिंदी दिवस कब मनाया जाता है?",
+      "options": ["14 सितंबर", "15 अगस्त", "26 जनवरी", "2 अक्टूबर"],
+      "correctIndex": 0,
+      "explanation": "हिंदी दिवस 14 सितंबर को मनाया जाता है।",
+      "subCategory": "सामान्य ज्ञान",
+      "difficulty": "Easy"
+    }
+  ]
+}

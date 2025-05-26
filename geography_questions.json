@@ -1,0 +1,48 @@
+{
+  "category": "Geography",
+  "lastUpdated": "2024-01-15T10:30:00Z",
+  "version": "1.0",
+  "totalQuestions": 5,
+  "questions": [
+    {
+      "question": "भारत की सबसे लंबी नदी कौन सी है?",
+      "options": ["गंगा", "यमुना", "गोदावरी", "नर्मदा"],
+      "correctIndex": 0,
+      "explanation": "गंगा भारत की सबसे लंबी नदी है।",
+      "subCategory": "नदियाँ",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "भारत में कुल कितने राज्य हैं?",
+      "options": ["28", "29", "30", "31"],
+      "correctIndex": 0,
+      "explanation": "भारत में कुल 28 राज्य हैं।",
+      "subCategory": "राजनीतिक भूगोल",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "हिमालय की सबसे ऊंची चोटी कौन सी है?",
+      "options": ["माउंट एवरेस्ट", "कंचनजंगा", "मकालू", "धौलागिरी"],
+      "correctIndex": 0,
+      "explanation": "माउंट एवरेस्ट हिमालय की सबसे ऊंची चोटी है।",
+      "subCategory": "पर्वत",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "भारत का सबसे बड़ा राज्य (क्षेत्रफल की दृष्टि से) कौन सा है?",
+      "options": ["राजस्थान", "मध्य प्रदेश", "महाराष्ट्र", "उत्तर प्रदेश"],
+      "correctIndex": 0,
+      "explanation": "राजस्थान भारत का सबसे बड़ा राज्य है।",
+      "subCategory": "राज्य",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "भारत की मानक समय रेखा कौन सी है?",
+      "options": ["82.5° पूर्वी देशांतर", "80° पूर्वी देशांतर", "85° पूर्वी देशांतर", "90° पूर्वी देशांतर"],
+      "correctIndex": 0,
+      "explanation": "भारत की मानक समय रेखा 82.5° पूर्वी देशांतर है।",
+      "subCategory": "समय",
+      "difficulty": "Medium"
+    }
+  ]
+}
