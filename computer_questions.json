@@ -104,13 +104,13 @@
         "question": "निम्नलिखित में से कौन सा ऑउटपट डिवाइस है?",
         "options": ["Scanner", "Mouse", "Monitor", "Keyboard"],
         "correctIndex": "2",
-        "explanation": "Monitor एक आउटपट डिवाइस है, "क्योन्की यह कंप्यूटर से प्राप्त डेटा को स्क्रीन पर प्रदर्शित करता है।",
+        "explanation": "Monitor एक आउटपट डिवाइस है, क्योन्की यह कंप्यूटर से प्राप्त डेटा को स्क्रीन पर प्रदर्शित करता है।",
         "subCategory": "कंप्यूट",
         "difficulty": "Easy"
     },
     {
         "question": "RAM का पूर्ण रूप क्या है?",
-        "options": ["Random Access Memory", "Read Access Memory", "Run Access Memory", "Rapid Access Memory"],
+        "options": ["Random Access Memory", "Read Access Memory", "Run Access Memory", "Rapid Access Memory",
         "correctIndex": "0,
         "explanation": "RAM का पूर्ण रूप Random Access Memory है, जो अस्थायी डेटा स्टोरेज के लिए उपयोग होती है।",
         "subCategory": "कंप्यूट",
