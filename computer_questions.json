@@ -4,6 +4,790 @@
   "version": "1.0",
   "totalQuestions": 5,
   "questions": [
+     {
+        "question": "कंप्यूटर का मस्तिष्क किसे कहा जाता है?",
+        "options": ["RAM", "CPU", "ROM", "Hard Disk"],
+        "correctIndex": 1,
+        "explanation": "CPU (Central Processing Unit) को कंप्यूटर का मस्तिष्क कहा जाता है, क्योंकि यह सभी गणनाएँ और निर्देशों का निष्पादन करता है।",
+        "subCategory": "कंप्यूटर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा ऑपरेटिंग सिस्टम है?",
+        "options": ["MS Word", "Windows 10", "Google Chrome", "Adobe Photoshop"],
+        "correctIndex": 1,
+        "explanation": "Windows 10 एक ऑपरेटिंग सिस्टम है, जो कंप्यूटर के हार्डवेयर और सॉफ्टवेयर के बीच संचार को प्रबंधित करता है।",
+        "subCategory": "कंप्यूटर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "1 GB में कितने MB होते हैं?",
+        "options": ["100 MB", "1000 MB", "1024 MB", "512 MB"],
+        "correctIndex": 2,
+        "explanation": "1 GB = 1024 MB, क्योंकि कंप्यूटर में मेमोरी बाइनरी सिस्टम (2^10) में मापी जाती है।",
+        "subCategory": "कंप्यूटर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "WWW का पूर्ण रूप क्या है?",
+        "options": ["World Wide Web", "World Web Wide", "Web World Wide", "Wide World Web"],
+        "correctIndex": 0,
+        "explanation": "WWW का पूर्ण रूप World Wide Web है, जो इंटरनेट पर हाइपरलिंक के माध्यम से जानकारी को जोड़ता है।",
+        "subCategory": "कंप्यूटर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "MS Excel में कार्यपत्रक को क्या कहते हैं?",
+        "options": ["Document", "Spreadsheet", "Slide", "Database"],
+        "correctIndex": 1,
+        "explanation": "MS Excel में कार्यपत्रक को Spreadsheet कहा जाता है, जो डेटा को तालिका रूप में व्यवस्थित करता है।",
+        "subCategory": "कंप्यूटर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा इनपुट डिवाइस है?",
+        "options": ["Monitor", "Keyboard", "Printer", "Speaker"],
+        "correctIndex": 1,
+        "explanation": "Keyboard एक इनपुट डिवाइस है, क्योंकि यह उपयोगकर्ता से डेटा को कंप्यूटर में भेजता है।",
+        "subCategory": "कंप्यूटर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "HTTP का पूर्ण रूप क्या है?",
+        "options": ["Hyper Text Transfer Protocol", "High Text Transfer Protocol", "Hyper Text Transmission Protocol", "Home Text Transfer Protocol"],
+        "correctIndex": 0,
+        "explanation": "HTTP का पूर्ण रूप Hyper Text Transfer Protocol है, जो वेब पेजों को स्थानांतरित करने के लिए उपयोग होता है।",
+        "subCategory": "कंप्यूटर",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "कंप्यूटर में डेटा को स्थायी रूप से स्टोर करने के लिए किसका उपयोग होता है?",
+        "options": ["RAM", "ROM", "Hard Disk", "Cache"],
+        "correctIndex": 2,
+        "explanation": "Hard Disk का उपयोग डेटा को स्थायी रूप से स्टोर करने के लिए होता है, क्योंकि यह नॉन-वोलेटाइल मेमोरी है।",
+        "subCategory": "कंप्यूटर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा ब्राउज़र नहीं है?",
+        "options": ["Google Chrome", "Mozilla Firefox", "Microsoft Word", "Safari"],
+        "correctIndex": 2,
+        "explanation": "Microsoft Word एक वर्ड प्रोसेसिंग सॉफ्टवेयर है, न कि वेब ब्राउज़र।",
+        "subCategory": "कंप्यूटर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "LAN का पूर्ण रूप क्या है?",
+        "options": ["Local Area Network", "Large Area Network", "Long Area Network", "Light Area Network"],
+        "correctIndex": 0,
+        "explanation": "LAN का पूर्ण रूप Local Area Network है, जो एक छोटे क्षेत्र में कंप्यूटरों को जोड़ता है।",
+        "subCategory": "कंप्यूटर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "MS Word में नया दस्तावेज़ खोलने की शॉर्टकट कुंजी क्या है?",
+        "options": ["Ctrl + N", "Ctrl + O", "Ctrl + S", "Ctrl + P"],
+        "correctIndex": 0,
+        "explanation": "Ctrl + N का उपयोग MS Word में नया दस्तावेज़ खोलने के लिए होता है।",
+        "subCategory": "कंप्यूटर",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "कंप्यूटर वायरस क्या है?",
+        "options": ["एक हार्डवेयर", "एक सॉफ्टवेयर प्रोग्राम", "एक ऑपरेटिंग सिस्टम", "एक डेटाबेस"],
+        "correctIndex": "1",
+        "explanation": "कंप्यूटर वायरस एक दुर्भावनापूर्ण सॉफ्टवेयर प्रोग्राम है, जो डेटा को नष्ट कर सकता है।",
+        "subCategory": "कंप्यूटर",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा ऑउटपट डिवाइस है?",
+        "options": ["Scanner", "Mouse", "Monitor", "Keyboard"],
+        "correctIndex": "2",
+        "explanation": "Monitor एक आउटपट डिवाइस है, "क्योन्की यह कंप्यूटर से प्राप्त डेटा को स्क्रीन पर प्रदर्शित करता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "RAM का पूर्ण रूप क्या है?",
+        "options": ["Random Access Memory", "Read Access Memory", "Run Access Memory", "Rapid Access Memory"],
+        "correctIndex": "0,
+        "explanation": "RAM का पूर्ण रूप Random Access Memory है, जो अस्थायी डेटा स्टोरेज के लिए उपयोग होती है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "इंटरनेट पर गोपनीय डेटा को सुरक्षित करने के लिए किस प्रोटोकॉल का उपयोग होता है?",
+        "options": ["FTP", "HTTP", "HTTPS", "SMTP"],
+        "correctIndex": "2",
+        "explanation": "HTTPS (Hyper Text Transfer Protocol Secure) गोपनीय डेटा को सुरक्षित करने के लिए SSL/TLS का उपयोग करता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "MS Excel में सेल को चुनने के लिए किस कुंजी का उपयोग होता है?",
+        "options": ["Ctrl", "Shift", "Alt", "Enter"],
+        "correctIndex": "1",
+        "explanation": "Shift कुंजी का उपयोग MS Excel में एक से अधिक सेल को चुनने के लिए किया जाता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा डेटाबेस मैनेजमेंट सिस्टम है?",
+        "options": ["Oracle", "MS Word", "Windows", "Photoshop"],
+        "correctIndex": "0",
+        "explanation": "Oracle एक डेटाबेस मैनेजमेंट सिस्टम है, जो डेटा को व्यवस्थित और प्रबंधित करता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "कंप्यूटर में प्रोग्राम और डेटा को स्टोर करने के लिए किस मेमोरी का उपयोग होता है?",
+        "options": ["Primary Memory", "Secondary Memory", "Cache Memory", "Virtual Memory"],
+        "correctIndex": "1",
+        "explanation": "Secondary Memory (जैसे Hard Disk) का उपयोग प्रोग्राम और डेटा को स्थायी रूप से स्टोर करने के लिए होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "IP एड्रेस में कितने बिट्स होते हैं (IPv4)?",
+        "options": ["16", "32", "64", "128"],
+        "correctIndex": "1",
+        "explanation": "IPv4 एड्रेस 32 बिट्स का होता है, जो चार ऑक्टेट्स में विभाजित होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा एंटीवायरस सॉफ्टवेयर है?",
+        "options": ["Norton", "MS Excel", "Notepad", "VLC Player"],
+        "correctIndex": "0",
+        "explanation": "Norton एक एंटीवायरस सॉफ्टवेयर है, जो कंप्यूटर को वायरस से बचाता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "URL का पूर्ण रूप क्या है?",
+        "options": ["Uniform Resource Locator", "Universal Resource Locator", "Unique Resource Locator", "Unified Resource Locator"],
+        "correctIndex": "0",
+        "explanation": "URL का पूर्ण रूप Uniform Resource Locator है, जो वेब संसाधन का पता दर्शाता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "MS PowerPoint में नई स्लाइड जोड़ने की शॉर्टकट कुंजी क्या है?",
+        "options": ["Ctrl + M", "Ctrl + N", "Ctrl + S", "Ctrl + P"],
+        "correctIndex": "0",
+        "explanation": "Ctrl + M का उपयोग MS PowerPoint में नई स्लाइड जोड़ने के लिए होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "कंप्यूटर में बाइनरी सिस्टम में कितने अंक होते हैं?",
+        "options": ["1", "2", "8", "10"],
+        "correctIndex": "1",
+        "explanation": "बाइनरी सिस्टम में केवल दो अंक होते हैं: 0 और 1।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा क्लाउड स्टोरेज सेवा है?",
+        "options": ["Google Drive", "MS Access", "Windows Media Player", "Notepad"],
+        "correctIndex": "0",
+        "explanation": "Google Drive एक क्लाउड स्टोरेज सेवा है, जो डेटा को ऑनलाइन स्टोर करती है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "OSI मॉडल में कितनी परतें होती हैं?",
+        "options": ["5", "6", "7", "8"],
+        "correctIndex": "2",
+        "explanation": "OSI (Open Systems Interconnection) मॉडल में 7 परतें होती हैं।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा प्रोग्रामिंग भाषा है?",
+        "options": ["Python", "MS Excel", "Google Chrome", "Adobe Reader"],
+        "correctIndex": "0",
+        "explanation": "Python एक प्रोग्रामिंग भाषा है, जिसका उपयोग सॉफ्टवेयर विकास के लिए होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूटर में BIOS का क्या कार्य है?",
+        "options": ["डेटा स्टोर करना", "हार्डवेयर प्रारंभ करना", "इंटरनेट कनेक्ट करना", "वायरस हटाना"],
+        "correctIndex": "1",
+        "explanation": "BIOS (Basic Input/Output System) हार्डवेयर को प्रारंभ करता है और ऑपरेटिंग सिस्टम को लोड करता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "FTP का पूर्ण रूप क्या है?",
+        "options": ["File Transfer Protocol", "Fast Transfer Protocol", "File Transmission Protocol", "Flexible Transfer Protocol"],
+        "correctIndex": "0",
+        "explanation": "FTP का पूर्ण रूप File Transfer Protocol है, जो फाइलों को स्थानांतरित करने के लिए उपयोग होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "MS Word में टेक्स्ट को बोल्ड करने की शॉर्टकट कुंजी क्या है?",
+        "options": ["Ctrl + B", "Ctrl + I", "Ctrl + U", "Ctrl + T"],
+        "correctIndex": "0",
+        "explanation": "Ctrl + B का उपयोग MS Word में टेक्स्ट को बोल्ड करने के लिए होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा स्टोरेज डिवाइस नहीं है?",
+        "options": ["Hard Disk", "Pen Drive", "Monitor", "SSD"],
+        "correctIndex": "2",
+        "explanation": "Monitor एक आउटपुट डिवाइस है, न कि स्टोरेज डिवाइस।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "SQL का पूर्ण रूप क्या है?",
+        "options": ["Structured Query Language", "Simple Query Language", "Standard Query Language", "Sequential Query Language"],
+        "correctIndex": "0",
+        "explanation": "SQL का पूर्ण रूप Structured Query Language है, जो डेटाबेस प्रबंधन के लिए उपयोग होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "कंप्यूटर में डेटा को प्रोसेस करने के लिए किसका उपयोग होता है?",
+        "options": ["ALU", "CU", "RAM", "ROM"],
+        "correctIndex": "0",
+        "explanation": "ALU (Arithmetic Logic Unit) डेटा को प्रोसेस करने के लिए गणनाएँ और तार्किक संचालन करता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा नेटवर्क टोपोलॉजी है?",
+        "options": ["Bus", "Ring", "Star", "All of the above"],
+        "correctIndex": "3",
+        "explanation": "Bus, Ring, और Star सभी नेटवर्क टोपोलॉजी हैं, जो नेटवर्क डिवाइस को जोड़ने के तरीके हैं।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "MS Excel में SUM फंक्शन का उपयोग किसके लिए होता है?",
+        "options": ["औसत निकालने", "संख्याओं का योग करने", "अधिकतम मान निकालने", "न्यूनतम मान निकालने"],
+        "correctIndex": "1",
+        "explanation": "SUM फंक्शन का उपयोग MS Excel में संख्याओं का योग करने के लिए होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूटर में फायरवॉल का क्या कार्य है?",
+        "options": ["डेटा स्टोर करना", "नेटवर्क सुरक्षा प्रदान करना", "प्रोग्राम चलाना", "हार्डवेयर प्रारंभ करना"],
+        "correctIndex": "1",
+        "explanation": "फायरवॉल नेटवर्क सुरक्षा प्रदान करता है, अनधिकृत पहुँच को रोकता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "WAN का पूर्ण रूप क्या है?",
+        "options": ["Wide Area Network", "Wireless Area Network", "World Area Network", "Web Area Network"],
+        "correctIndex": "0",
+        "explanation": "WAN का पूर्ण रूप Wide Area Network है, जो बड़े भौगोलिक क्षेत्र में नेटवर्क को जोड़ता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा मोबाइल ऑपरेटिंग सिस्टम है?",
+        "options": ["Android", "MS Word", "Photoshop", "Notepad"],
+        "correctIndex": "0",
+        "explanation": "Android एक मोबाइल ऑपरेटिंग सिस्टम है, जो स्मार्टफोन और टैबलेट पर उपयोग होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूटर में Cache Memory का उपयोग क्यों होता है?",
+        "options": ["डेटा को स्थायी रूप से स्टोर करने", "प्रोसेसिंग गति बढ़ाने", "इंटरनेट कनेक्शन सुधारने", "वायरस हटाने"],
+        "correctIndex": "1",
+        "explanation": "Cache Memory का उपयोग प्रोसेसिंग गति बढ़ाने के लिए होता है, क्योंकि यह CPU के निकट तेज़ मेमोरी है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा वायरलेस तकनीक है?",
+        "options": ["Bluetooth", "Ethernet", "Coaxial Cable", "Fiber Optic"],
+        "correctIndex": "0",
+        "explanation": "Bluetooth एक वायरलेस तकनीक है, जो डिवाइसों के बीच शॉर्ट-रेंज डेटा ट्रांसफर के लिए उपयोग होती है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "MS Word में टेक्स्ट को अंडरलाइन करने की शॉर्टकट कुंजी क्या है?",
+        "options": ["Ctrl + B", "Ctrl + I", "Ctrl + U", "Ctrl + T"],
+        "correctIndex": "2",
+        "explanation": "Ctrl + U का उपयोग MS Word में टेक्स्ट को अंडरलाइन करने के लिए होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूटर में GUI का क्या अर्थ है?",
+        "options": ["Graphical User Interface", "General User Interface", "Global User Interface", "Guided User Interface"],
+        "correctIndex": "0",
+        "explanation": "GUI का अर्थ Graphical User Interface है, जो उपयोगकर्ता को ग्राफिकल तरीके से इंटरैक्ट करने की सुविधा देता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा सर्च इंजन है?",
+        "options": ["Google", "Facebook", "Twitter", "Instagram"],
+        "correctIndex": "0",
+        "explanation": "Google एक सर्च इंजन है, जो इंटरनेट पर जानकारी खोजने के लिए उपयोग होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूटर में Motherboard का क्या कार्य है?",
+        "options": ["डेटा स्टोर करना", "सभी हार्डवेयर को जोड़ना", "प्रोग्राम चलाना", "इंटरनेट कनेक्ट करना"],
+        "correctIndex": "1",
+        "explanation": "Motherboard सभी हार्डवेयर घटकों को जोड़ता है और उनके बीच संचार सक्षम करता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "DNS का पूर्ण रूप क्या है?",
+        "options": ["Domain Name System", "Digital Name System", "Dynamic Name System", "Direct Name System"],
+        "correctIndex": "0",
+        "explanation": "DNS का पूर्ण रूप Domain Name System है, जो डोमेन नाम को IP एड्रेस में बदलता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "MS Excel में VLOOKUP फंक्शन का उपयोग किसके लिए होता है?",
+        "options": ["डेटा को जोड़ने", "डेटा को खोजने", "डेटा को क्रमबद्ध करने", "डेटा को हटाने"],
+        "correctIndex": "1",
+        "explanation": "VLOOKUP फंक्शन का उपयोग MS Excel में किसी तालिका में डेटा खोजने के लिए होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "कंप्यूटर में UPS का क्या कार्य है?",
+        "options": ["पावर बैकअप प्रदान करना", "डेटा स्टोर करना", "प्रोग्राम चलाना", "वायरस हटाना"],
+        "correctIndex": "0",
+        "explanation": "UPS (Uninterruptible Power Supply) पावर बैकअप प्रदान करता है, ताकि बिजली जाने पर कंप्यूटर चालू रहे।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा ऑप्टिकल स्टोरेज डिवाइस है?",
+        "options": ["Hard Disk", "Pen Drive", "CD-ROM", "SSD"],
+        "correctIndex": "2",
+        "explanation": "CD-ROM एक ऑप्टिकल स्टोरेज डिवाइस है, जो लेजर तकनीक का उपयोग करता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "TCP/IP का पूर्ण रूप क्या है?",
+        "options": ["Transmission Control Protocol/Internet Protocol", "Transfer Control Protocol/Internet Protocol", "Transmission Communication Protocol/Internet Protocol", "Transfer Communication Protocol/Internet Protocol"],
+        "correctIndex": "0",
+        "explanation": "TCP/IP का पूर्ण रूप Transmission Control Protocol/Internet Protocol है, जो नेटवर्क संचार के लिए उपयोग होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "MS PowerPoint में स्लाइड शो शुरू करने की शॉर्टकट कुंजी क्या है?",
+        "options": ["F5", "F6", "F7", "F8"],
+        "correctIndex": "0",
+        "explanation": "F5 का उपयोग MS PowerPoint में स्लाइड शो शुरू करने के लिए होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "कंप्यूटर में Boot Process क्या है?",
+        "options": ["डेटा स्टोर करना", "ऑपरेटिंग सिस्टम लोड करना", "इंटरनेट कनेक्ट करना", "वायरस स्कैन करना"],
+        "correctIndex": "1",
+        "explanation": "Boot Process ऑपरेटिंग सिस्टम को मेमोरी में लोड करने की प्रक्रिया है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा डेटा कम्प्रेशन तकनीक है?",
+        "options": ["ZIP", "JPEG", "MP3", "All of the above"],
+        "correctIndex": "3",
+        "explanation": "ZIP, JPEG, और MP3 सभी डेटा कम्प्रेशन तकनीक हैं, जो फाइल आकार को कम करते हैं।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "SMTP का पूर्ण रूप क्या है?",
+        "options": ["Simple Mail Transfer Protocol", "Secure Mail Transfer Protocol", "Standard Mail Transfer Protocol", "System Mail Transfer Protocol"],
+        "correctIndex": "0",
+        "explanation": "SMTP का पूर्ण रूप Simple Mail Transfer Protocol है, जो ईमेल भेजने के लिए उपयोग होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "MS Excel में AVERAGE फंक्शन का उपयोग किसके लिए होता है?",
+        "options": ["योग करने", "औसत निकालने", "अधिकतम मान निकालने", "न्यूनतम मान निकालने"],
+        "correctIndex": "1",
+        "explanation": "AVERAGE फंक्शन का उपयोग MS Excel में संख्याओं का औसत निकालने के लिए होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूटर में GPU का क्या कार्य है?",
+        "options": ["डेटा स्टोर करना", "ग्राफिक्स प्रोसेसिंग", "इंटरनेट कनेक्शन", "वायरस स्कैनिंग"],
+        "correctIndex": "1",
+        "explanation": "GPU (Graphics Processing Unit) ग्राफिक्स और विजुअल डेटा को प्रोसेस करता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा मालवेयर है?",
+        "options": ["Trojan", "MS Word", "Google Chrome", "Notepad"],
+        "correctIndex": "0",
+        "explanation": "Trojan एक प्रकार का मालवेयर है, जो कंप्यूटर को नुकसान पहुँचाता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "HTML का पूर्ण रूप क्या है?",
+        "options": ["Hyper Text Markup Language", "High Text Markup Language", "Home Text Markup Language", "Hybrid Text Markup Language"],
+        "correctIndex": "0",
+        "explanation": "HTML का पूर्ण रूप Hyper Text Markup Language है, जो वेब पेज बनाने के लिए उपयोग होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "MS Word में दस्तावेज़ को प्रिंट करने की शॉर्टकट कुंजी क्या है?",
+        "options": ["Ctrl + P", "Ctrl + S", "Ctrl + N", "Ctrl + O"],
+        "correctIndex": "0",
+        "explanation": "Ctrl + P का उपयोग MS Word में दस्तावेज़ को प्रिंट करने के लिए होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूटर में Virtual Memory क्या है?",
+        "options": ["RAM का हिस्सा", "Hard Disk का हिस्सा", "Cache Memory", "ROM का हिस्सा"],
+        "correctIndex": "1",
+        "explanation": "Virtual Memory Hard Disk का हिस्सा है, जो RAM की कमी होने पर उपयोग होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा वेब डेवलपमेंट टूल है?",
+        "options": ["JavaScript", "MS Excel", "Notepad", "VLC Player"],
+        "correctIndex": "0",
+        "explanation": "JavaScript एक वेब डेवलपमेंट टूल है, जो वेब पेज को इंटरैक्टिव बनाता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "MAC एड्रेस में कितने बिट्स होते हैं?",
+        "options": ["32", "48", "64", "128"],
+        "correctIndex": "1",
+        "explanation": "MAC एड्रेस 48 बिट्स का होता है, जो नेटवर्क डिवाइस की पहचान करता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा ईमेल क्लाइंट है?",
+        "options": ["Microsoft Outlook", "Google Chrome", "Adobe Photoshop", "Notepad"],
+        "correctIndex": "0",
+        "explanation": "Microsoft Outlook एक ईमेल क्लाइंट है, जो ईमेल प्रबंधन के लिए उपयोग होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूटर में SSD का पूर्ण रूप क्या है?",
+        "options": ["Solid State Drive", "Super Speed Drive", "Simple Storage Drive", "System State Drive"],
+        "correctIndex": "0",
+        "explanation": "SSD का पूर्ण रूप Solid State Drive है, जो तेज़ स्टोरेज डिवाइस है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "MS Excel में MAX फंक्शन का उपयोग किसके लिए होता है?",
+        "options": ["औसत निकालने", "योग करने", "अधिकतम मान निकालने", "न्यूनतम मान निकालने"],
+        "correctIndex": "2",
+        "explanation": "MAX फंक्शन का उपयोग MS Excel में अधिकतम मान निकालने के लिए होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूटर में Router का क्या कार्य है?",
+        "options": ["डेटा स्टोर करना", "नेटवर्क ट्रैफिक को निर्देशित करना", "प्रोग्राम चलाना", "वायरस हटाना"],
+        "correctIndex": "1",
+        "explanation": "Router नेटवर्क ट्रैफिक को विभिन्न नेटवर्क के बीच निर्देशित करता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा ग्राफिक्स फाइल फॉर्मेट है?",
+        "options": ["JPEG", "MP3", "DOCX", "EXE"],
+        "correctIndex": "0",
+        "explanation": "JPEG एक ग्राफिक्स फाइल फॉर्मेट है, जो छवियों को स्टोर करता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "POP3 का पूर्ण रूप क्या है?",
+        "options": ["Post Office Protocol 3", "Public Office Protocol 3", "Private Office Protocol 3", "Primary Office Protocol 3"],
+        "correctIndex": "0",
+        "explanation": "POP3 का पूर्ण रूप Post Office Protocol 3 है, जो ईमेल प्राप्त करने के लिए उपयोग होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "MS Word में टेक्स्ट को इटैलिक करने की शॉर्टकट कुंजी क्या है?",
+        "options": ["Ctrl + B", "Ctrl + I", "Ctrl + U", "Ctrl + T"],
+        "correctIndex": "1",
+        "explanation": "Ctrl + I का उपयोग MS Word में टेक्स्ट को इटैलिक करने के लिए होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूटर में Malware क्या है?",
+        "options": ["एक हार्डवेयर", "एक दुर्भावनापूर्ण सॉफ्टवेयर", "एक ऑपरेटिंग सिस्टम", "एक डेटाबेस"],
+        "correctIndex": "1",
+        "explanation": "Malware एक दुर्भावनापूर्ण सॉफ्टवेयर है, जो कंप्यूटर को नुकसान पहुँचाता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा ऑडियो फाइल फॉर्मेट है?",
+        "options": ["MP3", "PNG", "PDF", "TXT"],
+        "correctIndex": "0",
+        "explanation": "MP3 एक ऑडियो फाइल फॉर्मेट है, जो ध्वनि डेटा को स्टोर करता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूटर में Switch का क्या कार्य है?",
+        "options": ["डेटा स्टोर करना", "नेटवर्क डिवाइस को जोड़ना", "प्रोग्राम चलाना", "वायरस हटाना"],
+        "correctIndex": "1",
+        "explanation": "Switch नेटवर्क डिवाइस को जोड़ता है और डेटा पैकेट को सही गंतव्य तक भेजता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "CSS का पूर्ण रूप क्या है?",
+        "options": ["Cascading Style Sheets", "Central Style Sheets", "Common Style Sheets", "Custom Style Sheets"],
+        "correctIndex": "0",
+        "explanation": "CSS का पूर्ण रूप Cascading Style Sheets है, जो वेब पेज की स्टाइलिंग के लिए उपयोग होता है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "MS Excel में MIN फंक्शन का उपयोग किसके लिए होता है?",
+        "options": ["औसत निकालने", "योग करने", "अधिकतम मान निकालने", "न्यूनतम मान निकालने"],
+        "correctIndex": "2",
+        "explanation": ["MIN फंक्शन का उपयोग MS Excel में न्यूनतम मान निकालने के लिए होता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूटर में VPN का पूर्ण रूप क्या है?",
+        "options": ["Virtual Private Network", "Virtual Public Network", "Visible Private Network", "Virtual Protected Network"],
+        "correctIndex": "0",
+        "explanation": ["VPN का पूर्ण रूप Virtual Private Network है, जो सुरक्षित इंटरनेट कनेक्शन प्रदान करता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा वीडियो फाइल फॉर्मेट है?",
+        "options": ["AVI", "DOCX", "PDF", "TXT"],
+        "correctIndex": "0",
+        "explanation": ["AVI एक वीडियो फाइल फॉर्मेट है, जो वीडियो डेटा को स्टोर करता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "IMAP का पूर्ण रूप क्या है?",
+        "options": ["Internet Message Access Protocol", "Internal Message Access Protocol", "International Message Access Protocol", "Integrated Message Access Protocol"],
+        "correctIndex": "0",
+        "explanation": ["IMAP का पूर्ण रूप Internet Message Access Protocol है, जो ईमेल सर्वर पर ईमेल प्रबंधन के लिए उपयोग होता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "MS PowerPoint में स्लाइड को डिलीट करने की शॉर्टकट कुंजी क्या है?",
+        "options": ["Delete", "Ctrl + D", "Ctrl + X", "Ctrl + Z"],
+        "correctIndex": "0",
+        "explanation": ["Delete कुंजी का उपयोग MS PowerPoint में स्लाइड को डिलीट करने के लिए होता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूटर में Phishing का क्या मतलब है?",
+        "options": ["डेटा स्टोर करना", "सुरक्षा प्रदान करना", "गोपनीय जानकारी चुराना", "प्रोग्राम चलाना"],
+        "correctIndex": "2",
+        "explanation": ["Phishing एक साइबर हमला है, जिसमें गोपनीय जानकारी जैसे पासवर्ड चुराए जाते हैं।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा डेटा एनक्रिप्शन स्टैंडर्ड है?",
+        "options": ["AES", "MS Word", "MP3", "JPEG"],
+        "correctIndex": "0"],
+        "explanation": ["AES (Advanced Encryption Standard) डेटा को सुरक्षित करने के लिए उपयोग होने वाला एक एनक्रिप्शन स्टैंडर्ड है।",
+        "subCategory": "कंप्यूट",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "कंप्यूट र में में BIOS कहाँ स्थित होता है?",
+        "options": ["RAM", "ROM", "Hard Disk", "Cache"],
+        "correctIndex": "1",
+        "explanation": ["BIOS (ROM) में संग्रहीत होता है, जो स्थायी मेमोरी है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "MS Excel में COUNTIF फंक्शन का उपयोग किसके लिए होता है?",
+        "options": ["संख्याओं का योग", "शर्तों के आधार पर गणना", "औसत निकालने", "अधिकतम मान निकालने"],
+        "correctIndex": "1",
+        "explanation": ["COUNTIF फंक्शन का उपयोग MS Excel में शर्तों के आधार पर सेल्स की गणना करने के लिए होता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "कंप्यूट र में में Modem का क्या कार्य है?",
+        "options": ["डेटा को स्टोर करना", "डिजिटल सिग्नल को एनालॉग में बदलना", "प्रोग्राम्स चलाना", "वायरस हटाना"],
+        "correctIndex": ["1"],
+        "explanation": ["Modem डिजिटल सिग्नल को एनालॉग में और इसके विपरीत बदलता है, ताकि इंटरनेट कनेक्शन स्थापित हो सके।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा डेटा बेस्ड टाइप है?",
+        "options": ["VARCHAR", "MP3", "JPEG", "EXE"],
+        "correctIndex": "0",
+        "explanation": ["VARCHAR एक डेटा टाइप है, जो डेटाबेस में टेक्स्ट स्टोर करने के लिए उपयोग होता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "कंप्यूट र में में Firewall किस परत पर काम करता है?",
+        "options": ["Application Layer", "Network Layer", "Data Link Layer", "Physical Layer"],
+        "correctIndex": "1",
+        "explanation": ["Firewall मुख्य रूप से Network Layer पर काम करता है, नेटवर्क ट्रैफिक को नियंत्रित करने के लिए।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "MS Word में दस्तावेज़ को सेव करने की शॉटकट कुंजी क्या है?",
+        "options": ["Ctrl + S", "Ctrl + P", "Ctrl + N", "Ctrl + O"],
+        "correctIndex": "0",
+        "explanation": ["Ctrl + S का उपयोग MS Word में दस्तावेज़ को सेव करने के लिए होता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूट र में में Worm क्या है?",
+        "options": ["एक हार्डवेयर", "एक मालवेयर", "एक ऑपरेटिंग सिस्टम", "एक डेटाबेस"],
+        "correctIndex": "1",
+        "explanation": ["Worm एक प्रकार का मालवेयर है, जो नेटवर्क के माध्यम से फैलता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा डेटा ट्रांसमिशन मोड है?",
+        "options": ["Simplex", "Half-Duplex", "Full-Duplex", "All of the above"],
+        "correctIndex": "3",
+        "explanation": ["Simplex, Half-Duplex, और Full-Duplex सभी डेटा ट्रांसमिशन मोड हैं।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "XML का पूर्ण रूप क्या है?",
+        "options": ["Extensible Markup Language", "Extra Markup Language", "Extended Markup Language", "External Markup Language"],
+        "correctIndex": "0",
+        "explanation": ["XML का पूर्ण रूप Extensible Markup Language है, जो डेटा को संरचित रूप में स्टोर करता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "MS Excel में टेक्स्ट को मर्ज करने का विकल्प क्या है?",
+        "options": ["Merge & Center", "Wrap Text", "Text Align", "Font Size"],
+        "correctIndex": "0",
+        "explanation": ["Merge & Center का उपयोग MS Excel में सेल्स को मर्ज करने और टेक्स्ट को केंद्रित करने के लिए होता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूट र में में Encryption का क्या अर्थ है?",
+        "options": ["डेटा को पढ़ने योग्य बनाना", "डेटा को कोड में बदलना", "डेटा को डिलीट करना", "डेटा को कॉपी करना"],
+        "correctIndex": "1",
+        "explanation": ["Encryption डेटा को कोड में बदलने की प्रक्रिया है, ताकि इसे अनधिकृत व्यक्ति न पढ़ें।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा नेटवर्क डिवाइस है?",
+        "options": ["Hub", "Printer", "Scanner", "Monitor"],
+        "correctIndex": "0",
+        "explanation": ["Hub एक नेटवर्क डिवाइस है, जो नेटवर्क में डिवाइस को जोड़ता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "RDBMS का पूर्ण रूप क्या है?",
+        "options": ["Relational Database Management System", "Rapid Database Management System", "Regular Database Management System", "Remote Database Management System"],
+        "correctIndex": "0",
+        "explanation": ["RDBMS का पूर्ण रूप Relational Database Management System है, जो रिलेशनल डेटा को प्रबंध करता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "MS PowerPoint में Animation जोड़ने का विकल्प कहाँ होता है?",
+        "options": ["Home Tab", "Insert Tab", "Animations Tab", "Design Tab"],
+        "correctIndex": "2",
+        "explanation": ["Animations Tab में MS PowerPoint में Animation जोड़ने के विकल्प उपलब्ध होते हैं।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूट र में में IP का क्या अर्थ है?",
+        "options": ["Internet Protocol", "Internal Protocol", "International Protocol", "Integrated Protocol"],
+        "correctIndex": "0",
+        "explanation": ["IP का अर्थ Internet Protocol है, जो नेटवर्क डेटा ट्रांसफर के लिए उपयोग होता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा डेटा बेस मॉडल है?",
+        "options": ["Hierarchical", "MP3", "JPEG", "TXT"],
+        "correctIndex": "0",
+        "explanation": ["Hierarchical एक डेटा बेस मॉडल है, जो डेटा को पेड़ जैसी संरचना में व्यवस्थित करता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "MS Word में Page Break जोड़ने की शॉर्टकट कुंजी क्या है?",
+        "options": ["Ctrl + Enter", "Ctrl + P", "Ctrl + S", "Ctrl + N"],
+        "correctIndex": "0",
+        "explanation": ["Ctrl + Enter का उपयोग MS Word में Page Break जोड़ने के लिए होता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "कंप्यूट र में में Spyware क्या है?",
+        "options": ["एक हार्डवेयर", "एक मालवेयर", "एक ऑपरेटिंग सिस्टम", "एक डेटाबेस"],
+        "correctIndex": "1",
+        "explanation": ["Spyware एक मालवेयर है, जो उपयोगकर्ता की जानकारी चोरी करता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा प्रोटोकॉल ईमेल भेजने के लिए उपयोग होता है?",
+        "options": ["SMTP", "FTP", "HTTP", "DNS"],
+        "correctIndex": "0",
+        "explanation": ["SMTP (Simple Mail Transfer Protocol) ईमेल भेजने के लिए उपयोग होता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "MS Excel में IF फंक्शन का उपयोग किसके लिए होता है?",
+        "options": ["शर्त के आधार पर गणना", "योग करने", "औसत निकालने", "अधिकतम मान निकालने"],
+        "correctIndex": "0",
+        "explanation": ["IF फंक्शन का उपयोग MS Excel में शर्त के आधार पर गणना करने के लिए होता है।"],
+        "subCategory": "कंप्यूट",
+        "difficulty": "Hard"
+    },
     {
         "question": "CPU का पूरा नाम क्या है?",
         "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
