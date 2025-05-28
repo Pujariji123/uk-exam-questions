@@ -108,14 +108,7 @@
         "subCategory": "कंप्यूट",
         "difficulty": "Easy"
     },
-    {
-        "question": "RAM का पूर्ण रूप क्या है?",
-        "options": ["Random Access Memory", "Read Access Memory", "Run Access Memory", "Rapid Access Memory",
-        "correctIndex": "0,
-        "explanation": "RAM का पूर्ण रूप Random Access Memory है, जो अस्थायी डेटा स्टोरेज के लिए उपयोग होती है।",
-        "subCategory": "कंप्यूट",
-        "difficulty": "Easy"
-    },
+    
     {
         "question": "इंटरनेट पर गोपनीय डेटा को सुरक्षित करने के लिए किस प्रोटोकॉल का उपयोग होता है?",
         "options": ["FTP", "HTTP", "HTTPS", "SMTP"],
