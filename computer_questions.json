@@ -613,14 +613,7 @@
         "subCategory": "कंप्यूट",
         "difficulty": "Medium"
     },
-    {
-        "question": "निम्नलिखित में से कौन सा डेटा एनक्रिप्शन स्टैंडर्ड है?",
-        "options": ["AES", "MS Word", "MP3", "JPEG"],
-        "correctIndex": "0",
-        "explanation": ["AES (Advanced Encryption Standard) डेटा को सुरक्षित करने के लिए उपयोग होने वाला एक एनक्रिप्शन स्टैंडर्ड है।",
-        "subCategory": "कंप्यूट",
-        "difficulty": "Hard"
-    },
+  
     {
         "question": "कंप्यूटर मे BIOS कहाँ स्थित होता है?",
         "options": ["RAM", "ROM", "Hard Disk", "Cache"],
