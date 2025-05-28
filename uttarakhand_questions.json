@@ -1,0 +1,48 @@
+{
+  "category": "Uttarakhand",
+  "lastUpdated": "2024-01-15T10:30:00Z",
+  "version": "1.0",
+  "totalQuestions": 5,
+  "questions": [
+    {
+      "question": "उत्तराखंड की राजधानी कहाँ है?",
+      "options": ["देहरादून", "हरिद्वार", "नैनीताल", "अल्मोड़ा"],
+      "correctIndex": 0,
+      "explanation": "देहरादून उत्तराखंड की राजधानी है।",
+      "subCategory": "भूगोल",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "उत्तराखंड का गठन कब हुआ था?",
+      "options": ["9 नवंबर 2000", "1 नवंबर 2000", "15 अगस्त 2000", "26 जनवरी 2001"],
+      "correctIndex": 0,
+      "explanation": "उत्तराखंड का गठन 9 नवंबर 2000 को हुआ था।",
+      "subCategory": "इतिहास",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "उत्तराखंड में कुल कितने जिले हैं?",
+      "options": ["13", "14", "15", "16"],
+      "correctIndex": 0,
+      "explanation": "उत्तराखंड में कुल 13 जिले हैं।",
+      "subCategory": "प्रशासन",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "नंदा देवी चोटी कहाँ स्थित है?",
+      "options": ["उत्तराखंड", "हिमाचल प्रदेश", "जम्मू-कश्मीर", "सिक्किम"],
+      "correctIndex": 0,
+      "explanation": "नंदा देवी चोटी उत्तराखंड में स्थित है।",
+      "subCategory": "भूगोल",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "केदारनाथ मंदिर किस नदी के किनारे स्थित है?",
+      "options": ["मंदाकिनी", "अलकनंदा", "गंगा", "यमुना"],
+      "correctIndex": 0,
+      "explanation": "केदारनाथ मंदिर मंदाकिनी नदी के किनारे स्थित है।",
+      "subCategory": "धर्म",
+      "difficulty": "Medium"
+    }
+  ]
+}
