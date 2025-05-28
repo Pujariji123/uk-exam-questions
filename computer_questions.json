@@ -5,6 +5,126 @@
   "totalQuestions": 5,
   "questions": [
     {
+        "question": "CPU का पूरा नाम क्या है?",
+        "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
+        "correctIndex": 0,
+        "explanation": "CPU का पूरा नाम Central Processing Unit है। यह कंप्यूटर का मस्तिष्क है जो सभी गणनाएं करता है।",
+        "subCategory": "हार्डवेयर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "RAM का उपयोग किस लिए किया जाता है?",
+        "options": ["स्थायी डेटा संग्रहण", "अस्थायी डेटा संग्रहण", "डेटा प्रोसेसिंग", "आउटपुट प्रदर्शन"],
+        "correctIndex": 1,
+        "explanation": "RAM (रैंडम एक्सेस मेमोरी) का उपयोग अस्थायी डेटा संग्रहण के लिए होता है, जो प्रोग्राम चलाने में मदद करता है।",
+        "subCategory": "हार्डवेयर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा एक ऑपरेटिंग सिस्टम है?",
+        "options": ["एमएस वर्ड", "विंडोज 10", "फोटोशॉप", "क्रोम"],
+        "correctIndex": 1,
+        "explanation": "विंडोज 10 एक ऑपरेटिंग सिस्टम है जो कंप्यूटर के हार्डवेयर और सॉफ्टवेयर को प्रबंधित करता है।",
+        "subCategory": "सॉफ्टवेयर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "इंटरनेट ब्राउज़ करने के लिए किसका उपयोग होता है?",
+        "options": ["वेब ब्राउज़र", "वर्ड प्रोसेसर", "स्प्रेडशीट", "डेटाबेस"],
+        "correctIndex": 0,
+        "explanation": "वेब ब्राउज़र, जैसे गूगल क्रोम या फायरफॉक्स, का उपयोग इंटरनेट पर वेबसाइट देखने के लिए होता है।",
+        "subCategory": "सॉफ्टवेयर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "1 बाइट में कितने बिट्स होते हैं?",
+        "options": ["4", "8", "16", "32"],
+        "correctIndex": 1,
+        "explanation": "1 बाइट में 8 बिट्स होते हैं, जो डेटा की एक मूल इकाई है।",
+        "subCategory": "सामान्य कंप्यूटर ज्ञान",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "हार्ड डिस्क का मुख्य कार्य क्या है?",
+        "options": ["डेटा प्रोसेसिंग", "अस्थायी संग्रहण", "स्थायी डेटा संग्रहण", "आउटपुट प्रदर्शन"],
+        "correctIndex": 2,
+        "explanation": "हार्ड डिस्क का उपयोग डेटा को स्थायी रूप से संग्रहित करने के लिए होता है।",
+        "subCategory": "हार्डवेयर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "WWW का पूरा नाम क्या है?",
+        "options": ["वर्ल्ड वाइड वेब", "वेब वर्ल्ड वाइड", "वर्ल्ड वेब वर्क", "वाइड वेब वर्ल्ड"],
+        "correctIndex": 0,
+        "explanation": "WWW का पूरा नाम वर्ल्ड वाइड वेब है, जो इंटरनेट पर वेबसाइटों का नेटवर्क है।",
+        "subCategory": "नेटवर्किंग",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा इनपुट डिवाइस है?",
+        "options": ["मॉनिटर", "प्रिंटर", "माउस", "स्पीकर"],
+        "correctIndex": 2,
+        "explanation": "माउस एक इनपुट डिवाइस है जो उपयोगकर्ता से निर्देश प्राप्त करता है।",
+        "subCategory": "हार्डवेयर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "USB का पूरा नाम क्या है?",
+        "options": ["Universal Serial Bus", "United Serial Bus", "Universal System Bus", "United System Bus"],
+        "correctIndex": 0,
+        "explanation": "USB का पूरा नाम Universal Serial Bus है, जो डेटा ट्रांसफर और डिवाइस कनेक्शन के लिए उपयोग होता है।",
+        "subCategory": "हार्डवेयर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा एक एप्लिकेशन सॉफ्टवेयर है?",
+        "options": ["लिनक्स", "एमएस एक्सेल", "फायरवॉल", "ड्राइवर"],
+        "correctIndex": 1,
+        "explanation": "एमएस एक्सेल एक एप्लिकेशन सॉफ्टवेयर है जो स्प्रेडशीट प्रबंधन के लिए उपयोग होता है।",
+        "subCategory": "सॉफ्टवेयर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "कंप्यूटर में डेटा को अस्थायी रूप से स्टोर करने के लिए किस मेमोरी का उपयोग होता है?",
+        "options": ["ROM", "RAM", "हार्ड डिस्क", "SSD"],
+        "correctIndex": 1,
+        "explanation": "RAM (रैंडम एक्सेस मेमोरी) का उपयोग डेटा को अस्थायी रूप से स्टोर करने के लिए होता है।",
+        "subCategory": "हार्डवेयर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "इंटरनेट कनेक्शन के लिए निम्नलिखित में से कौन सा उपकरण आवश्यक है?",
+        "options": ["मॉडेम", "प्रिंटर", "मॉनिटर", "कीबोर्ड"],
+        "correctIndex": 0,
+        "explanation": "मॉडेम इंटरनेट कनेक्शन स्थापित करने के लिए आवश्यक है क्योंकि यह नेटवर्क सिग्नल को डिजिटल डेटा में परिवर्तित करता है।",
+        "subCategory": "नेटवर्किंग",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "निम्नलिखित में से कौन सा आउटपुट डिवाइस है?",
+        "options": ["स्कैनर", "मॉनिटर", "कीबोर्ड", "माउस"],
+        "correctIndex": 1,
+        "explanation": "मॉनिटर एक आउटपुट डिवाइस है जो कंप्यूटर से डेटा को दृश्य रूप में प्रदर्शित करता है।",
+        "subCategory": "हार्डवेयर",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "फाइल को व्यवस्थित करने के लिए कंप्यूटर में क्या उपयोग होता है?",
+        "options": ["फोल्डर", "प्रोग्राम", "ड्राइवर", "कैश"],
+        "correctIndex": 0,
+        "explanation": "फोल्डर का उपयोग फाइलों को व्यवस्थित और संग्रहित करने के लिए होता है।",
+        "subCategory": "सामान्य कंप्यूटर ज्ञान",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "HTTP का उपयोग किस लिए किया जाता है?",
+        "options": ["डेटा स्टोरेज", "वेब पेज ट्रांसफर", "हार्डवेयर कनेक्शन", "प्रोग्राम इंस्टॉलेशन"],
+        "correctIndex": 1,
+        "explanation": "HTTP (हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल) का उपयोग वेब पेजों को इंटरनेट पर ट्रांसफर करने के लिए होता है।",
+        "subCategory": "नेटवर्किंग",
+        "difficulty": "Easy"
+    },
+    {
       "question": "CPU का पूरा नाम क्या है?",
       "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
       "correctIndex": 0,
