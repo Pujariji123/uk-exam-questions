@@ -616,7 +616,7 @@
     {
         "question": "निम्नलिखित में से कौन सा डेटा एनक्रिप्शन स्टैंडर्ड है?",
         "options": ["AES", "MS Word", "MP3", "JPEG"],
-        "correctIndex": "0"],
+        "correctIndex": "0",
         "explanation": ["AES (Advanced Encryption Standard) डेटा को सुरक्षित करने के लिए उपयोग होने वाला एक एनक्रिप्शन स्टैंडर्ड है।",
         "subCategory": "कंप्यूट",
         "difficulty": "Hard"
