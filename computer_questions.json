@@ -629,7 +629,7 @@
         "difficulty": "Hard"
     },
     {
-        "question": "कंप्यूट र में में BIOS कहाँ स्थित होता है?",
+        "question": "कंप्यूटर मे BIOS कहाँ स्थित होता है?",
         "options": ["RAM", "ROM", "Hard Disk", "Cache"],
         "correctIndex": "1",
         "explanation": ["BIOS (ROM) में संग्रहीत होता है, जो स्थायी मेमोरी है।"],
@@ -645,7 +645,7 @@
         "difficulty": "Hard"
     },
     {
-        "question": "कंप्यूट र में में Modem का क्या कार्य है?",
+        "question": "कंप्यूटर में Modem का क्या कार्य है?",
         "options": ["डेटा को स्टोर करना", "डिजिटल सिग्नल को एनालॉग में बदलना", "प्रोग्राम्स चलाना", "वायरस हटाना"],
         "correctIndex": ["1"],
         "explanation": ["Modem डिजिटल सिग्नल को एनालॉग में और इसके विपरीत बदलता है, ताकि इंटरनेट कनेक्शन स्थापित हो सके।"],
@@ -661,7 +661,7 @@
         "difficulty": "Medium"
     },
     {
-        "question": "कंप्यूट र में में Firewall किस परत पर काम करता है?",
+        "question": "कंप्यूटर में Firewall किस परत पर काम करता है?",
         "options": ["Application Layer", "Network Layer", "Data Link Layer", "Physical Layer"],
         "correctIndex": "1",
         "explanation": ["Firewall मुख्य रूप से Network Layer पर काम करता है, नेटवर्क ट्रैफिक को नियंत्रित करने के लिए।"],
@@ -677,7 +677,7 @@
         "difficulty": "Easy"
     },
     {
-        "question": "कंप्यूट र में में Worm क्या है?",
+        "question": "कंप्यूटर में Worm क्या है?",
         "options": ["एक हार्डवेयर", "एक मालवेयर", "एक ऑपरेटिंग सिस्टम", "एक डेटाबेस"],
         "correctIndex": "1",
         "explanation": ["Worm एक प्रकार का मालवेयर है, जो नेटवर्क के माध्यम से फैलता है।"],
@@ -709,7 +709,7 @@
         "difficulty": "Easy"
     },
     {
-        "question": "कंप्यूट र में में Encryption का क्या अर्थ है?",
+        "question": "कंप्यूटर में में Encryption का क्या अर्थ है?",
         "options": ["डेटा को पढ़ने योग्य बनाना", "डेटा को कोड में बदलना", "डेटा को डिलीट करना", "डेटा को कॉपी करना"],
         "correctIndex": "1",
         "explanation": ["Encryption डेटा को कोड में बदलने की प्रक्रिया है, ताकि इसे अनधिकृत व्यक्ति न पढ़ें।"],
@@ -741,7 +741,7 @@
         "difficulty": "Easy"
     },
     {
-        "question": "कंप्यूट र में में IP का क्या अर्थ है?",
+        "question": "कंप्यूटर में में IP का क्या अर्थ है?",
         "options": ["Internet Protocol", "Internal Protocol", "International Protocol", "Integrated Protocol"],
         "correctIndex": "0",
         "explanation": ["IP का अर्थ Internet Protocol है, जो नेटवर्क डेटा ट्रांसफर के लिए उपयोग होता है।"],
@@ -765,7 +765,7 @@
         "difficulty": "Medium"
     },
     {
-        "question": "कंप्यूट र में में Spyware क्या है?",
+        "question": "कंप्यूटर में में Spyware क्या है?",
         "options": ["एक हार्डवेयर", "एक मालवेयर", "एक ऑपरेटिंग सिस्टम", "एक डेटाबेस"],
         "correctIndex": "1",
         "explanation": ["Spyware एक मालवेयर है, जो उपयोगकर्ता की जानकारी चोरी करता है।"],
