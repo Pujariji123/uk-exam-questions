@@ -101,10 +101,10 @@
         "difficulty": "Medium"
     },
     {
-        "question": "निम्नलिखित में से कौन सा ऑउटपट डिवाइस है?",
+        "question": "निम्नलिखित में से कौन सा आउटपुट डिवाइस है?",
         "options": ["Scanner", "Mouse", "Monitor", "Keyboard"],
         "correctIndex": "2",
-        "explanation": "Monitor एक आउटपट डिवाइस है, क्योन्की यह कंप्यूटरर से प्राप्त डेटा को स्क्रीन पर प्रदर्शित करता है।",
+        "explanation": "Monitor एक आउटपट डिवाइस है, क्योंकि यह कंप्यूटरर से प्राप्त डेटा को स्क्रीन पर प्रदर्शित करता है।",
         "subCategory": "कंप्यूटरर",
         "difficulty": "Easy"
     },
