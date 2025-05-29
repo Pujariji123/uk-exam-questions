@@ -15,7 +15,7 @@
     {
         "question": "श्रृंखला पूरी करें: 2, 5, 8, 11, ?",
         "options": ["13", "14", "15", "16"],
-        "correctIndex": 2,
+        "correctIndex": 1,
         "explanation": "श्रृंखला में प्रत्येक संख्या पिछले से 3 अधिक है: 2 + 3 = 5, 5 + 3 = 8, 8 + 3 = 11, 11 + 3 = 14।",
         "subCategory": "रीजनिंग",
         "difficulty": "Easy"
@@ -124,14 +124,7 @@
         "subCategory": "रीजनिंग",
         "difficulty": "Hard"
     },
-    {
-        "question": "यदि 'BOOK' को 'FSRP' लिखा जाता है, तो 'COPY' को कैसे लिखा जाएगा?",
-        "options": ["IRTK", "JUVL", "KSWM", "LUXN"],
-        "correctIndex": 0,
-        "explanation": "प्रत्येक अक्षर को 3 स्थान आगे बढ़ाया जाता है: B+3=F, O+3=S, O+3=R, K+3=P। उसी तरह, C+3=I, O+3=R, P+3=S, Y+3=I।",
-        "subCategory": "रीजनिंग",
-        "difficulty": "Medium"
-    },
+    
     {
         "question": "श्रृंखला पूरी करें: 7, 14, 28, 56, ?",
         "options": ["84", "98", "112", "126"],
