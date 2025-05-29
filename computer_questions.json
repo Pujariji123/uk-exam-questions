@@ -568,7 +568,7 @@
     {
         "question": "MS Excel में MIN फंक्शन का उपयोग किसके लिए होता है?",
         "options": ["औसत निकालने", "योग करने", "अधिकतम मान निकालने", "न्यूनतम मान निकालने"],
-        "correctIndex": "2",
+        "correctIndex": "3",
         "explanation": ["MIN फंक्शन का उपयोग MS Excel में न्यूनतम मान निकालने के लिए होता है।"],
         "subCategory": "कंप्यूटर",
         "difficulty": "Easy"
